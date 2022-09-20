@@ -1,0 +1,6 @@
+﻿  isalpha.c
+E:\java研发工程师\c-learning\作业\isalpha(判断字母)\isalpha.c(5,18): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+E:\java研发工程师\c-learning\作业\isalpha(判断字母)\isalpha.c(5,18): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+E:\java研发工程师\c-learning\作业\isalpha(判断字母)\isalpha.c(5,18): message : 缺失的可变参数 2 为格式字符串“%c”所需
+E:\java研发工程师\c-learning\作业\isalpha(判断字母)\isalpha.c(5,18): message : 此参数用作缓冲区大小
+  isalpha(判断字母).vcxproj -> E:\java研发工程师\c-learning\作业\isalpha(判断字母)\Debug\isalpha(判断字母).exe

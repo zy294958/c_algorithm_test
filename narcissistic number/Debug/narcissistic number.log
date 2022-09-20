@@ -1,0 +1,3 @@
+﻿  narcissistic number.c
+E:\java研发工程师\c-learning\作业\narcissistic number\narcissistic number.c(21,33): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  narcissistic number.vcxproj -> E:\java研发工程师\c-learning\作业\narcissistic number\Debug\narcissistic number.exe
